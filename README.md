@@ -15,13 +15,3 @@ This is an image of the text file that the user can save the output as:
 
 <img width="358" height="281" alt="image" src="https://github.com/user-attachments/assets/24085357-8dad-4eb4-a497-53081ac87990" />
 
-## Next Steps
-
-- My aim is to recreate this project in Java and explore ways to run the application on a mobile device.
-
-## Run-Tracker Version 2🏃👟 
-First Solo Project - (03/01/2026 - Current Date) - Java
-## How to run
-
-## Images
-
